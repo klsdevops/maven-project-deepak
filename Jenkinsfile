@@ -4,7 +4,7 @@ pipeline {
     tools {
       maven 'M2_HOME'
       git 'Default'
-      jdk 'JAVA_HOME'
+      jdk 'JAVA JDK'
     }
     
     environment {
